@@ -1,1 +1,1 @@
-# this is a restaurant menu program 
+# This is a restaurant menu program 
